@@ -225,7 +225,8 @@ Note: While touch coal data can be useful, it's important to recognise that its 
 
 By incorporating these recommendations, geologists working in the field can contribute significantly to the development and maintenance of reliable geological models that accurately reflect the complex nature of coal deposits. Continuous refinement of the model as new data becomes available is essential for optimising mine planning, volume estimation, and production forecasting. The overarching goal here is to foster collaboration between geologists, engineers, and other stakeholders to ensure that the geological model serves as a valuable and trustworthy tool for all users throughout the life of the mine.
 
-**Conclusion**
+Conclusion
+================
 
 **Evidence of Success.**
 
