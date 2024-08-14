@@ -1,7 +1,7 @@
 Beyond Traditional Methods:
-
+==
 Radial Basis Functions for Stratigraphic Modelling Innovation in Complex Coal Deposits
-
+--
 Norman Heckscher^1^, Andrew Hughes^2^, Barry Saunders^1^ and Glynne Owen^3^
 
 1.QGESS Pty Ltd, Brisbane
