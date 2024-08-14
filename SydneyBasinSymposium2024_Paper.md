@@ -141,7 +141,8 @@ In contrast, using the Euclidean distance to directly measure the shortest dista
 
 The choice between these methods can impact volume estimation. As mining operations increasingly target more geologically complex deposits, the use of appropriate and accurate estimation methods becomes crucial.
 
-**Stratigraphic Modelling - The Way Forward**
+Stratigraphic Modelling - The Way Forward
+================
 
 The industry will benefit from new ways of modelling complicated geology in stratiform. The following five steps have been successful in creating a stratigraphic model in complex, faulted and steep dip strata which reconciles well with "as mined" surfaces.
 
@@ -199,7 +200,8 @@ Optimal parameters for RBFs are determined through cross-validation with differi
 
 To illustrate the comparative effectiveness of spatial interpolation techniques, a synthetic digital elevation model (DEM) was generated to simulate a coal seam environment (Figure 9). The DEM approximates a hillside terrain, incorporating creek-like features commonly observed in subsurface coal seams. This synthetic surface was then sampled at randomly distributed (x, y) locations, and the corresponding z (elevation) values were used to reconstruct the terrain using both Inverse Distance Weighting Squared (IDW²) and Linear Radial Basis Function (RBF) interpolation (Figure 10). The visual comparison readily demonstrates the superior representativeness of the RBF algorithm in accurately replicating the original terrain features.
 
-**How To Integrate RBF Modelling**
+How To Integrate RBF Modelling
+--
 
 **Structure Updates**
 
@@ -241,7 +243,8 @@ There are people who need to be recognised for their input and ability to bounce
 
 To finalise, consultation on the processes contained is available, just get in touch with Troy Saunders. QGESS is happy to assist in the software development and modelling process.
 
-**References**
+References
+================
 
 AAPG Wiki. (n.d.). *Conversion of well log data to subsurface stratigraphic and structural information* [Diagram]. AAPG Wiki. [*https://wiki.aapg.org/File:Conversion-of-well-log-data-to-subsurface-stratigraphic-and-structural-information* ](https://wiki.aapg.org/File:Conversion-of-well-log-data-to-subsurface-stratigraphic-and-structural-information_fig7.jpg)[*_fig7.jpg*](https://wiki.aapg.org/File:Conversion-of-well-log-data-to-subsurface-stratigraphic-and-structural-information_fig7.jpg)
 
