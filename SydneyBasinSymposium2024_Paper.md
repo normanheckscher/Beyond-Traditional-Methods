@@ -142,7 +142,7 @@ In contrast, using the Euclidean distance to directly measure the shortest dista
 The choice between these methods can impact volume estimation. As mining operations increasingly target more geologically complex deposits, the use of appropriate and accurate estimation methods becomes crucial.
 
 Stratigraphic Modelling - The Way Forward
-================
+--
 
 The industry will benefit from new ways of modelling complicated geology in stratiform. The following five steps have been successful in creating a stratigraphic model in complex, faulted and steep dip strata which reconciles well with "as mined" surfaces.
 
@@ -228,14 +228,14 @@ Note: While touch coal data can be useful, it's important to recognise that its 
 By incorporating these recommendations, geologists working in the field can contribute significantly to the development and maintenance of reliable geological models that accurately reflect the complex nature of coal deposits. Continuous refinement of the model as new data becomes available is essential for optimising mine planning, volume estimation, and production forecasting. The overarching goal here is to foster collaboration between geologists, engineers, and other stakeholders to ensure that the geological model serves as a valuable and trustworthy tool for all users throughout the life of the mine.
 
 Conclusion
-================
+--
 
 **Evidence of Success.**
 
 The proposed stratigraphic modelling methodology has demonstrated success in practical applications. The authors can affirm that the methodology consistently yielded production tonnage results that closely reconciled with the geological model. This level of accuracy and precision extends even to thin coal seams (less than a meter thick) in challenging geological settings characterised by steep dips, folds and complex faulting. The robustness of the methodology has enabled precise forecasting of future production levels, providing valuable insights for mine planning and resource management.
 
 Acknowledgements
-================
+--
 
 There are people who need to be recognised for their input and ability to bounce ideas around with during the development of this paper.
 
@@ -244,7 +244,7 @@ There are people who need to be recognised for their input and ability to bounce
 To finalise, consultation on the processes contained is available, just get in touch with Troy Saunders. QGESS is happy to assist in the software development and modelling process.
 
 References
-================
+--
 
 AAPG Wiki. (n.d.). *Conversion of well log data to subsurface stratigraphic and structural information* [Diagram]. AAPG Wiki. [*https://wiki.aapg.org/File:Conversion-of-well-log-data-to-subsurface-stratigraphic-and-structural-information* ](https://wiki.aapg.org/File:Conversion-of-well-log-data-to-subsurface-stratigraphic-and-structural-information_fig7.jpg)[*_fig7.jpg*](https://wiki.aapg.org/File:Conversion-of-well-log-data-to-subsurface-stratigraphic-and-structural-information_fig7.jpg)
 
